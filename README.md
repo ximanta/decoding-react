@@ -1,4 +1,4 @@
-# Decoding React - Part 1
+# Decoding React - Part 3
 
 
 Boilerplate for kick starting a project based on the Decoding React tutorial with the following technologies:
@@ -26,4 +26,4 @@ ESLint with React linting options have been enabled.
 npm run lint
 ```
 
-### Decoding React - Part 1
+### Decoding React - Part 3
