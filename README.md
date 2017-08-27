@@ -28,5 +28,5 @@ npm run lint
 
 ### Decoding React - Part 1
 
-[Decoding React - Part 1](https://simantas.wordpress.com/2017/08/26/decoding-react-part-1/)
+https://simantas.wordpress.com/2017/08/26/decoding-react-part-1/
 
